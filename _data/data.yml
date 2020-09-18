@@ -8,7 +8,11 @@ sidebar:
 
     # Profile information
     name: Joshua van Zyl
+<<<<<<< Updated upstream
     tagline: Mechanical and Mechatonics Engineer
+=======
+    tagline: Mechanical and Mechatronics Engineer
+>>>>>>> Stashed changes
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,11 +20,19 @@ sidebar:
     phone: 083 268 7735
     website: #blog.webjeda.com #do not add http://
     linkedin: joshua-van-zyl
+<<<<<<< Updated upstream
     github: #sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: #'@webjeda'
+=======
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+>>>>>>> Stashed changes
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,10 +45,17 @@ sidebar:
         level: Basic
 
     interests:
+<<<<<<< Updated upstream
       - item: Eningeering Projects
         link:
 
       - item: Animal Helping
+=======
+      - item: Engineering Projects
+        link:
+
+      - item: Volenteer Work
+>>>>>>> Stashed changes
         link:
 
       - item: Cooking
@@ -45,15 +64,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have devoted a lot of time to engineering not only in the classroom 
+      where this time got me to the top of my class in my final year but also 
+      out of in through expanding my skills by collaborating with other on their 
+      projects or by working on side projects of my own. Side projects that have 
+      even gone so far as to allow me to have had a steady flow of contract work 
+      over the years. This devotion to my craft has expanded my skillset through 
+      giving me opportunities to design PCB’s or learn machining to become a 
+      better designer. It has also given me the opportunity to pass on this 
+      knowledge through my work as a TA a role that also pushed me into a 
+      leadership position in managing a set of tutors working under me.  
 education:
     - degree: MSc in Electrical Engineering
       university: University of Cape Town
+<<<<<<< Updated upstream
       time: 2019 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -66,6 +90,18 @@ education:
     - degree: BSc in Mechanical and Mechatronics Eningeering
       university: University of Cape Town
       time: 2015 - 2018
+=======
+      time: 2019 - Present
+      details: |
+        I am currently completing a Masters degree in Electrical Engineering 
+        specialising in robotics. This is a research only MSc where I have been 
+        working on rapidly accelerating robots using a hybrid electric-pneumatic 
+        approach. For this masters my work has been recognised through my receiving 
+        of a VC Research Scholarship and the Ada & Bertie Levenstein Bursary.
+    - degree: BSc in Mechanical and Mechatronics Engineering
+      university: University of Cape Town
+      time: 2014 - 2018
+>>>>>>> Stashed changes
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
