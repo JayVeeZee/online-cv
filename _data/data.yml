@@ -8,11 +8,7 @@ sidebar:
 
     # Profile information
     name: Joshua van Zyl
-<<<<<<< Updated upstream
     tagline: Mechanical and Mechatonics Engineer
-=======
-    tagline: Mechanical and Mechatronics Engineer
->>>>>>> Stashed changes
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -20,19 +16,11 @@ sidebar:
     phone: 083 268 7735
     website: #blog.webjeda.com #do not add http://
     linkedin: joshua-van-zyl
-<<<<<<< Updated upstream
     github: #sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: #'@webjeda'
-=======
-    github: 
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
->>>>>>> Stashed changes
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -45,17 +33,10 @@ sidebar:
         level: Basic
 
     interests:
-<<<<<<< Updated upstream
-      - item: Eningeering Projects
-        link:
-
-      - item: Animal Helping
-=======
       - item: Engineering Projects
         link:
 
       - item: Volenteer Work
->>>>>>> Stashed changes
         link:
 
       - item: Cooking
@@ -77,20 +58,6 @@ career-profile:
 education:
     - degree: MSc in Electrical Engineering
       university: University of Cape Town
-<<<<<<< Updated upstream
-      time: 2019 - 2020
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Mechanical and Mechatronics Eningeering
-      university: University of Cape Town
-      time: 2015 - 2018
-=======
       time: 2019 - Present
       details: |
         I am currently completing a Masters degree in Electrical Engineering 
@@ -101,7 +68,6 @@ education:
     - degree: BSc in Mechanical and Mechatronics Engineering
       university: University of Cape Town
       time: 2014 - 2018
->>>>>>> Stashed changes
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
