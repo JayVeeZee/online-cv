@@ -64,15 +64,16 @@ education:
         specialising in robotics. This is a research only MSc where I have been 
         working on rapidly accelerating robots using a hybrid electric-pneumatic 
         approach. For this masters my work has been recognised through my receiving 
-        of a VC Research Scholarship and the Ada & Bertie Levenstein Bursary.
+        of a Vice-Chancellors Research Scholarship for Academic Excellence and the 
+        Ada & Bertie Levenstein Bursary.
     - degree: BSc in Mechanical and Mechatronics Engineering
       university: University of Cape Town
       time: 2014 - 2018
       details: |
         I completed my undergraduate degree in Mechanical and Mechatronic Engineering 
-        in minimum time while receiving a deans list award for each year of study. 
-        In addition to this I finished with 1st class honours and being top of my class 
-        for my final year.
+        in minimum time while receiving a Dean's list award each year for academic 
+        excellence. In addition to this I finished with 1st class honours and being 
+        top of my class for my final year.
 experiences:
     - role: Intern
       time: 2015 - 2015 
@@ -96,13 +97,21 @@ projects:
       Over the course of my undergraduate and masters degrees I have had the opportunity 
       to work or collaborate on a number of projects
     assignments:
-      - title: Rapid Acceleration a Pneumatic Approch
+      - title: Rapid Acceleration a Pneumatic Approach
         link: "#hook"
         tagline: "A robot designed for rapid transient manoeuvres using a hybrid pneumatic electric approach."
 
       - title: A Low Cost Force Plate Using Machine Learing
         link: "#"
         tagline: "Worked on the mechanical design of a low cost force plate using machine learning."
+
+      - title: A Bio-Inspired Robotic Octopus
+        link: "#"
+        tagline: "Designed and built a platform to mimic an octopus' arm swimming motion."
+      
+      - title: Prop Coaster
+        link: "#"
+        tagline: "Was commissioned to design and build a coaster that would light up and play music when a drink was put on it."
 
 skills:
     title: Skills &amp; Proficiency
